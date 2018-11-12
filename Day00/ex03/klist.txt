@@ -1,0 +1,5 @@
+Credentials cache: API:94DB286B-92C8-4053-B9D5-750CE2BC2CFC
+        Principal: mkinnear@42.FR
+
+		  Issued                Expires               Principal
+		  Apr 25 13:27:25 2017  May  2 13:27:19 2017  krbtgt/42.FR@42.FR

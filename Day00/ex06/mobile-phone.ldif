@@ -1,0 +1,4 @@
+dn: uid=mkinnear,ou=2017,ou=johannesburg,ou=people,dc=42,dc=fr
+changetype: modify
+add: mobile
+mobile: 0793150568
